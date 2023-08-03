@@ -1,3 +1,3 @@
 #My Resume
 
-- [Resume](DuyVu_Resume.pdf)
+- [Resume](TonyVu_Resume.pdf)
